@@ -1,0 +1,25 @@
+body{
+    background-color:#E3FDFD;
+}
+
+h1{
+    color:#71C9Ce;
+    margin-left: 40px;
+    
+}
+
+
+ul,
+li,
+a{
+   
+    color: #71C9Ce;
+    font-weight: bold;
+    font-style: italic;
+    margin: 10px ;
+    
+    
+
+
+
+}
